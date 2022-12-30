@@ -1,0 +1,14 @@
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.exe
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.deps.json
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.runtimeconfig.json
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.runtimeconfig.dev.json
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.dll
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\bin\Debug\netcoreapp3.1\CorridaTartaruga.pdb
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.csproj.AssemblyReference.cache
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.AssemblyInfoInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.AssemblyInfo.cs
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.csproj.CoreCompileInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.dll
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.pdb
+D:\Projetos\intermediate-code-challenge-dio\CorridaTartaruga\CorridaTartaruga\obj\Debug\netcoreapp3.1\CorridaTartaruga.genruntimeconfig.cache

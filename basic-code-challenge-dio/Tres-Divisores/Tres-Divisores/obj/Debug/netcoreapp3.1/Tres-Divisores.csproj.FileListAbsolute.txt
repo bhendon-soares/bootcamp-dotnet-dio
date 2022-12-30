@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.exe
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.deps.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.runtimeconfig.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.dll
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\bin\Debug\netcoreapp3.1\Tres-Divisores.pdb
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.dll
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.pdb
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Tres-Divisores\Tres-Divisores\obj\Debug\netcoreapp3.1\Tres-Divisores.genruntimeconfig.cache

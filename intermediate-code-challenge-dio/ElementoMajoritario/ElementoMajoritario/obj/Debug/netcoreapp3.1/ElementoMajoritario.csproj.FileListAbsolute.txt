@@ -1,0 +1,14 @@
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.exe
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.deps.json
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.runtimeconfig.json
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.runtimeconfig.dev.json
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.dll
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\bin\Debug\netcoreapp3.1\ElementoMajoritario.pdb
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.csproj.AssemblyReference.cache
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.AssemblyInfoInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.AssemblyInfo.cs
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.csproj.CoreCompileInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.dll
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.pdb
+D:\Projetos\intermediate-code-challenge-dio\ElementoMajoritario\ElementoMajoritario\obj\Debug\netcoreapp3.1\ElementoMajoritario.genruntimeconfig.cache

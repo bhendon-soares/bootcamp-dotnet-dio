@@ -1,0 +1,17 @@
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+D:\Projetos\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete

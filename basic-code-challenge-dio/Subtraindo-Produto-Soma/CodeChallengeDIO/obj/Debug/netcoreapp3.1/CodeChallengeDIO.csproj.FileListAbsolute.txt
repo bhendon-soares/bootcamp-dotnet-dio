@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.exe
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.deps.json
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.runtimeconfig.json
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.dll
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\bin\Debug\netcoreapp3.1\CodeChallengeDIO.pdb
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.dll
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.pdb
+C:\Users\Pichau\Documents\Programas C#\CodeChallengeDIO\CodeChallengeDIO\obj\Debug\netcoreapp3.1\CodeChallengeDIO.genruntimeconfig.cache

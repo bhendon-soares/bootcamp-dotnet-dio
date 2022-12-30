@@ -1,0 +1,14 @@
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.exe
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.deps.json
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.runtimeconfig.json
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.runtimeconfig.dev.json
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.dll
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\bin\Debug\netcoreapp3.1\AumentoSalario.pdb
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.csproj.AssemblyReference.cache
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.AssemblyInfoInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.AssemblyInfo.cs
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.csproj.CoreCompileInputs.cache
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.dll
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.pdb
+D:\Projetos\intermediate-code-challenge-dio\AumentoSalario\AumentoSalario\obj\Debug\netcoreapp3.1\AumentoSalario.genruntimeconfig.cache

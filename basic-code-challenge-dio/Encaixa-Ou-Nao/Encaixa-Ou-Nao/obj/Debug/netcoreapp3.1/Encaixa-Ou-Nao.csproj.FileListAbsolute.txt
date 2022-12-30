@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.exe
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.deps.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.runtimeconfig.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.dll
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\bin\Debug\netcoreapp3.1\Encaixa-Ou-Nao.pdb
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.dll
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.pdb
+C:\Users\Pichau\Documents\Code-Challenge-DIO\Basic-Code-Challenge-DIO\Encaixa-Ou-Nao\Encaixa-Ou-Nao\obj\Debug\netcoreapp3.1\Encaixa-Ou-Nao.genruntimeconfig.cache
